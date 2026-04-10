@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a student and i'm learning C
+I'm a second year computer engineering student
 
 <!--
 **Dune0098/Dune0098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
